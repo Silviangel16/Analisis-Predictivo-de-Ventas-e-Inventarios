@@ -1,4 +1,3 @@
-Aquí tienes una versión profesional para el **README.md** de GitHub. Está redactada como un proyecto de portafolio, con un enfoque orientado al negocio y al análisis de datos.
 
 # 📊 Análisis Predictivo de Ventas e Inventarios
 
