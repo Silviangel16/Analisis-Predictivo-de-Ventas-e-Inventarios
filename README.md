@@ -1,3 +1,4 @@
+<img width="1498" height="776" alt="image" src="https://github.com/user-attachments/assets/fdc9f015-7ed4-4d23-a80a-19bd3d22793d" />
 
 # 📊 Análisis Predictivo de Ventas e Inventarios
 
